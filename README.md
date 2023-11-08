@@ -1,3 +1,10 @@
+# Screen Captures of functioning app
+
+<img width="1512" alt="Screenshot 2023-11-08 at 11 34 18 AM" src="https://github.com/jcarn760/react-travel-list/assets/53236828/18bceb56-be35-4cf5-9091-f9d3e0265be2">
+<img width="1512" alt="Screenshot 2023-11-08 at 11 34 31 AM" src="https://github.com/jcarn760/react-travel-list/assets/53236828/3725cd85-054f-48d2-be93-f94cd6803fdd">
+<img width="1512" alt="Screenshot 2023-11-08 at 11 34 41 AM" src="https://github.com/jcarn760/react-travel-list/assets/53236828/f02fe878-bd1c-47e0-b175-c06058137f1a">
+<img width="1512" alt="Screenshot 2023-11-08 at 11 34 54 AM" src="https://github.com/jcarn760/react-travel-list/assets/53236828/7eb8cecb-2e28-49a3-b9ef-3b4ef5f8398e">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
